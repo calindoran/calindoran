@@ -1,4 +1,4 @@
-- Hi!, I’m @calindoran
+- Hi! I’m @calindoran
 - I’m interested in building applications, building computers and playing music.
 - I’m currently learning a lot about full-stack development.
 - I’m looking to collaborate on everything and anything! But I really want to get into React at the moment.
