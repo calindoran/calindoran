@@ -2,4 +2,4 @@
 - I’m interested in building applications, building computers and playing music.
 - I’m currently working in full-stack development.
 - I’m looking to collaborate on everything and anything! And I'm really enjoying ReactJS at the moment.
-- How to reach me - you can find all of this info over on my website: https://calindoran.github.io/
+- How to reach me - you can find all of this info over on my website: https://calindoran.com/
