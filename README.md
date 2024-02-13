@@ -1,8 +1,6 @@
-# Hi! My name is Calin
+# Hey, I'm Calin Doran ✌️
 
-I like to make things that live on the internet.
-
-I'm a software developer based in Ireland, and a 2020 graduate of Institute of Technology, Carlow with a Bachelor of Science (Honours) in Software Development.
+I'm a software engineer, musician and all around optimist from Ireland. I currently work at Intellync as a frontend engineer, where I focus on building SaaS products and features with quality testing. And graduated from SETU Carlow with a Bachelor of Science (Honours) in Software Development in 2020.
 
 ## Interests 💡
 
