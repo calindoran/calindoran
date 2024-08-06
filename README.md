@@ -1,4 +1,4 @@
-# Hi, I'm Calin Doran ✌️
+# Hey, I'm Calin Doran ✌️
 
 I'm a software engineer and part-time musician from Ireland. I currently work at Intellync as a frontend/app engineer, where I focus on building features for a range of products.
 
