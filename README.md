@@ -1,13 +1,12 @@
-# Hey, I'm Calin Doran ✌️
+# Hi, I'm Calin Doran ✌️
 
-I'm a software engineer, musician and all around optimist from Ireland. I currently work at Intellync as a frontend engineer, where I focus on building SaaS products and features with quality testing. And graduated from SETU Carlow with a Bachelor of Science (Honours) in Software Development in 2020.
+I'm a software engineer and part-time musician from Ireland. I currently work at Intellync as a frontend/app engineer, where I focus on building features for a range of products.
 
 ## Interests 💡
 
-- I’m interested in building applications, building computers and playing music.
-- I’m currently learning more about full-stack development.
-- And I'm currently working in front-end development with react.
+- Some of my interests would be building web and native applications, building computers and music.
+- I’m currently learning more about full-stack development using Python as a backend and whatever new interesting React framework seems best for the project.
 
 ## Contact 🌍
 
-You can reach me over at my website [calindoran.com](https://calindoran.com) and drop me a message via email.
+Want to know more? Check out my website over @ [calindoran.com](https://calindoran.com).
