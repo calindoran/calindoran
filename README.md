@@ -19,7 +19,7 @@ I'm a software engineer and part-time musician from Ireland. I currently work at
 
 - 🛠️ SQL and SQLite would be my go to database languages, with some mongodb and firebase.
 
-- 🐋 Docker is a great tool, I like to use that as frequently as possible.
+- 🐋 Docker is a great tool, I like to use that as frequently as possible for prototyping a new project.
 
 - ✉️ Want to know more? Check out my site over @ [calindoran.com](https://calindoran.com).
 
