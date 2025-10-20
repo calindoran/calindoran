@@ -6,7 +6,7 @@ I'm a software engineer from Ireland. I currently work as a frontend/app enginee
 
 - Some of my interests would be building web and native applications, building computers and playing music.
 
-- I’m currently learning more about full-stack development using Python as a backend and whatever new interesting React framework seems best for the project.
+- I’m currently learning more about full-stack development using Python as a backend and whatever new and interesting React framework seems best for the project.
 
 ## 📚 Tech Stack:
 
