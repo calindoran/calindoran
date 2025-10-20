@@ -4,7 +4,7 @@ I'm a software engineer from Ireland. I currently work as a frontend/app enginee
 
 ## 💡 Interests:
 
-- Some of my interests would be building web and native applications, building computers and playing music.
+- Some of my interests would be building web and native applications, building computers, comics and playing music.
 
 - I’m currently learning more about full-stack development using Python as a backend and whatever new and interesting React framework seems best for the project.
 
@@ -24,4 +24,4 @@ I'm a software engineer from Ireland. I currently work as a frontend/app enginee
 
 - ✉️ Want to know more? Check out my site over @ [calindoran.com](https://calindoran.com).
 
-- 🔖 TODO: Learn something new everyday!
+- 🔖 TODO: Learn something new everyday.
